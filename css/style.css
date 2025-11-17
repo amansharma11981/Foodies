@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
 *,
 *::after,
@@ -226,7 +226,7 @@ Header section Design
 .navigation-wrap .main-btn{
     padding: 0.3125rem 1.4375rem;
     box-shadow: none;
-    margin: 0.625rem;
+    /* margin: 0.625rem; */
 }
 
 
