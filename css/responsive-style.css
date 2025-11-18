@@ -47,7 +47,10 @@
         padding: 10.875rem 0 9.375;
     }
   /* navbar section */
-
+    .story-section{
+      height: auto;
+      padding: 3rem 0; 
+    }
 
   /* Banner deign */
 
@@ -57,30 +60,7 @@
   
 }
 @media(max-width:330px){
-    /* custom section */
-
-
-  /* navbar section */
-
-
-  /* Banner deign */
-
-
-  /* carousel design */
-
   
-}
-@media(max-width:1024px){
-    /* custom section */
-
-
-  /* navbar section */
-
-
-  /* Banner deign */
-
-
-  /* carousel design */
 
   
 }
